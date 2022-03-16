@@ -7,5 +7,15 @@ Sound Entries:
 - Objective Progress (personal preferences)
 
 Currently supported:
-- Blood Elf Male
-- Goblin Male
+- Blood Elf, Female
+- Blood Elf, Female, Demon Hunter
+- Blood Elf, Male
+- Blood Elf, Male, Demon Hunter
+- Goblin, Female
+- Goblin, Male
+- Highmountain Tauren, Female
+- Highmountain Tauren, Male
+- Maghar Orc, Female
+- Maghar Orc, Male
+- Nightborne, Female
+- Nightborne, Male
